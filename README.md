@@ -6,7 +6,7 @@ The first example is how to implement it using a Sheet was the user interface.
 
 The second example is how to implement it using a Form as the user interface.
 
-Their is considerable overlap in the two solutions. The main architecture is as follows:
+There is considerable overlap in the two solutions. The main architecture is as follows:
 
 
 
