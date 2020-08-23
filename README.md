@@ -8,7 +8,7 @@ The second example is how to implement it using a Form as the user interface.
 
 There is considerable overlap in the two solutions. The main architecture is as follows:
 
-
+<img src=screenshots/MVCDiagram.png width=500>
 
 
 ## Further information
