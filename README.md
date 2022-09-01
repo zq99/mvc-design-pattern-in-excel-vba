@@ -13,5 +13,6 @@ There is considerable overlap in the two solutions. The main architecture is as 
 
 ## Further information
 
-For a detailed run through of the project please go here:
-- https://datapluscode.com/general/mvc-design-pattern-in-excel-vba/
+For more information about this architecture please go here:
+- https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+
